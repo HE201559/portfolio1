@@ -29,7 +29,7 @@ class Portfolio extends React.Component {
 
                     <h4 style={{height:'17%',width:'130%',fontSize:'17px', textAlign:'center',  paddingTop:'12%',fontWeight:'lighter'}}> Développement personnel </h4>
 
-                    <h4 style={{height:'17%',width:'130%',fontSize:'17px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%',fontWeight:'lighter'}}></h4>
+                    <h4 style={{height:'17%',width:'130%',fontSize:'17px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%',fontWeight:'lighter'}}>  </h4>
 
                     <h4 style={{height:'17%',width:'130%',fontSize:'17px', textAlign:'center',  paddingTop:'12%',fontWeight:'lighter'}}>  </h4>
 
@@ -64,7 +64,7 @@ class Portfolio extends React.Component {
                     <h4 style={{height:'17%', width:'150%',fontSize:'17px', marginLeft:'35%', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
                     <h4 style={{height:'17%', width:'150%',fontSize:'17px', marginLeft:'35%', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
                     <h4 style={{height:'17%', width:'150%',fontSize:'17px', marginLeft:'35%', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
-                    <h4 style={{height:'17%',width:'150%', fontSize:'20px', marginLeft:'35%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
+                    <h4 style={{height:'17%',width:'150%', marginLeft:'35%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
                     <h4 style={{height:'17%',width:'150%', marginLeft:'35%', fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
                     <h4 style={{height:'17%',width:'150%',  marginLeft:'35%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> 6 heures </h4>
                     <h4 style={{height:'17%',width:'150%',marginLeft:'35%', fontSize:'21px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%'}}> Total </h4>
@@ -74,23 +74,23 @@ class Portfolio extends React.Component {
 
                     <h4 style={{marginTop:'10%',marginLeft:'35%',width:'165%',height:'17%', fontSize:'21px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'11%'}}> Preuve(s) </h4>
 
-                    <h4 style={{marginTop:'10%',marginLeft:'35%',width:'165%',height:'17%', fontSize:'17px', textAlign:'center',paddingTop:'9%',fontWeight:'lighter'}}> <a href="https://i.postimg.cc/Sxg9Cc5r/Python-Tab.png" target="_blank">Formation Python</a> </h4>
+                    <h4 style={{marginTop:'10%',marginLeft:'35%',width:'165%',height:'17%', fontSize:'17px', textAlign:'center',paddingTop:'9%',fontWeight:'lighter'}}> <a href="https://i.postimg.cc/Sxg9Cc5r/Python-Tab.png" target="_blank" rel="noreferrer">Formation Python</a> </h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/8kvL9JJp/Colruyt.png" target="_blank">Job Colruyt</a></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/8kvL9JJp/Colruyt.png" target="_blank" rel="noreferrer">Job Colruyt</a></h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/FR3Q5VXg/React-Nat-Tab.png" target="_blank">Formation React Native</a></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/FR3Q5VXg/React-Nat-Tab.png" target="_blank" rel="noreferrer">Formation React Native</a></h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/T3wQW2wZ/ReactTab.png" target="_blank">Formation React JS</a></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/T3wQW2wZ/ReactTab.png" target="_blank" rel="noreferrer">Formation React JS</a></h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/6QxkVGv8/twitch.png" target="_blank">Lien Twitch</a></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/6QxkVGv8/twitch.png" target="_blank" rel="noreferrer">Lien Twitch</a></h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}><a href="" target="_blank"> Ordinateurs </a></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> Ordinateurs </h4>
 
                     <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>Photos</h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%',fontWeight:'lighter'}}></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%',fontWeight:'lighter'}}>  </h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>  </h4>
 
                 </Col>
                 

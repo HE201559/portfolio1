@@ -15,7 +15,7 @@ function Cv (){
                         <Col style={{marginTop:'28%'}}>
                             <p style={{fontSize:'150%', fontWeight:'lighter'}}>Télécharger en pdf :</p>
                             <ul>
-                                <li><a href="https://ephec-my.sharepoint.com/:b:/g/personal/he201559_students_ephec_be/EcaFE0RoFqRCnCOzZH4RtsUBNZD62O3AiyzjePlE9pYRVw?e=KfXAl4" target="_blank" download="newfilename.pdf"> Cliquez ici </a></li>
+                                <li><a href="https://ephec-my.sharepoint.com/:b:/g/personal/he201559_students_ephec_be/EcaFE0RoFqRCnCOzZH4RtsUBNZD62O3AiyzjePlE9pYRVw?e=KfXAl4" target="_blank" rel="noreferrer" download="newfilename.pdf"> Cliquez ici </a></li>
                             </ul>
                         </Col>
                     </Row>
@@ -26,7 +26,7 @@ function Cv (){
                                 
                                 <li style={{marginTop:'8%',fontSize:'110%', fontWeight:'lighter'}}> Ephec </li>
                                     <ul>
-                                        <li style={{marginTop:'5%'}}><a href="https://www.ephec.be/formations/haute-ecole/bachelier-en-technologie-de-linformatique" target="_blank">Ephec Technologie de l'informatique</a></li>
+                                        <li style={{marginTop:'5%'}}><a href="https://www.ephec.be/formations/haute-ecole/bachelier-en-technologie-de-linformatique" target="_blank" rel="noreferrer">Ephec Technologie de l'informatique</a></li>
                                     </ul>
                             </ul>
 
@@ -39,15 +39,15 @@ function Cv (){
                                 
                                 <li style={{marginTop:'8%',fontSize:'110%', fontWeight:'lighter'}}> Friterie des Baudets </li>
                                     <ul>
-                                        <li style={{marginTop:'5%'}}><a href="https://www.facebook.com/Friterie-Acad%C3%A9mie-des-Baudets-581256555266710/" target="_blank">Friterie Académie des Baudets</a></li>
+                                        <li style={{marginTop:'5%'}}><a href="https://www.facebook.com/Friterie-Acad%C3%A9mie-des-Baudets-581256555266710/" target="_blank" rel="noreferrer">Friterie Académie des Baudets</a></li>
                                     </ul>
                             </ul>
                             <ul>
                                 
                                 <li style={{marginTop:'8%',fontSize:'110%', fontWeight:'lighter'}}> Colruyt </li>
                                     <ul>
-                                        <li style={{marginTop:'5%'}}><a href="https://www.colruyt.be/fr/recherche-de-magasin/colruyt-recogne" target="_blank">Colruyt Libramont</a></li>
-                                        <li style={{marginTop:'5%'}}><a href="https://www.colruyt.be/fr/recherche-de-magasin/colruyt-florenville" target="_blank">Colruyt Florenville</a></li>
+                                        <li style={{marginTop:'5%'}}><a href="https://www.colruyt.be/fr/recherche-de-magasin/colruyt-recogne" target="_blank" rel="noreferrer">Colruyt Libramont</a></li>
+                                        <li style={{marginTop:'5%'}}><a href="https://www.colruyt.be/fr/recherche-de-magasin/colruyt-florenville" target="_blank" rel="noreferrer">Colruyt Florenville</a></li>
                                         
                                     </ul>
                             </ul>
