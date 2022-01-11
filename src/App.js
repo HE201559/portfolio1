@@ -20,8 +20,8 @@ class  App extends React.Component{
       <Router>
         <Switch>
               <Route exact path='/' component={Acceuil}></Route>
-              <Route exact path='./Cv' component={Cv}></Route>
-              <Route exact path='./Portfolio' component={Portfolio}></Route>
+              <Route exact path='/Cv' component={Cv}></Route>
+              <Route exact path='/Portfolio' component={Portfolio}></Route>
               <Redirect to="/" />
             </Switch>
       </Router>
