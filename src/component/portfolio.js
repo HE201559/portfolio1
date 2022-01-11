@@ -40,11 +40,11 @@ class Portfolio extends React.Component {
                     <h4 style={{height:'17%', width:'150%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> Job étudiant </h4>
                     <h4 style={{height:'17%',width:'150%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> Formation React Native </h4>
                     <h4 style={{height:'17%', width:'150%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> Formation React </h4>
-                    <h4 style={{height:'17%',width:'150%', fontSize:'20px',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> Streaming </h4>
-                    <h4 style={{height:'17%',width:'150%', fontSize:'20px',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> Montage d'ordinateurs </h4>
-                    <h4 style={{height:'17%',width:'150%', fontSize:'20px',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> Football </h4>
-                    <h4 style={{height:'17%',width:'150%', fontSize:'20px',fontSize:'17px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%',fontWeight:'lighter'}}>  </h4>
-                    <h4 style={{height:'17%',width:'150%', fontSize:'20px',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>  </h4>
+                    <h4 style={{height:'17%',width:'150%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> Streaming </h4>
+                    <h4 style={{height:'17%',width:'150%', fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> Montage d'ordinateurs </h4>
+                    <h4 style={{height:'17%',width:'150%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> Football </h4>
+                    <h4 style={{height:'17%',width:'150%', fontSize:'17px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%',fontWeight:'lighter'}}>  </h4>
+                    <h4 style={{height:'17%',width:'150%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>  </h4>
                 </Col>
                 <Col xs={12} lg={2}>
                     <h4 style={{marginTop:'10%',marginLeft:'25%',width:'150%',height:'17%', fontSize:'21px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'11%'}}> Heures réelles </h4>
@@ -52,11 +52,11 @@ class Portfolio extends React.Component {
                     <h4 style={{height:'17%', marginLeft:'25%',width:'150%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> ∞ </h4>
                     <h4 style={{height:'17%',marginLeft:'25%',width:'150%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> 30 heures </h4>
                     <h4 style={{height:'17%',marginLeft:'25%',width:'150%', fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> 20 heures </h4>
-                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%',fontSize:'20px', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> ∞ </h4>
-                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%', fontSize:'20px', fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> 12 heures </h4>
-                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%',fontSize:'20px', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> ∞ </h4>
-                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%', fontSize:'20px', fontSize:'21px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%'}}> Total </h4>
-                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%',fontSize:'20px', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>  ∞  </h4>
+                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> ∞ </h4>
+                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%', fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> 12 heures </h4>
+                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> ∞ </h4>
+                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%', fontSize:'21px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%'}}> Total </h4>
+                    <h4 style={{height:'17%',marginLeft:'25%',width:'150%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>  ∞  </h4>
                 </Col>
                 <Col xs={12} lg={2}>
                     <h4 style={{marginTop:'10%',width:'150%',height:'17%', marginLeft:'35%', fontSize:'21px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'11%'}}>  Valorisation </h4>
@@ -65,10 +65,10 @@ class Portfolio extends React.Component {
                     <h4 style={{height:'17%', width:'150%',fontSize:'17px', marginLeft:'35%', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
                     <h4 style={{height:'17%', width:'150%',fontSize:'17px', marginLeft:'35%', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
                     <h4 style={{height:'17%',width:'150%', fontSize:'20px', marginLeft:'35%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
-                    <h4 style={{height:'17%',width:'150%',fontSize:'20px', marginLeft:'35%', fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
-                    <h4 style={{height:'17%',width:'150%', fontSize:'20px', marginLeft:'35%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> 6 heures </h4>
-                    <h4 style={{height:'17%',width:'150%',fontSize:'20px', marginLeft:'35%', fontSize:'21px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%'}}> Total </h4>
-                    <h4 style={{height:'17%',width:'150%', fontSize:'20px', marginLeft:'35%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>60 heures </h4>
+                    <h4 style={{height:'17%',width:'150%', marginLeft:'35%', fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> 10 heures </h4>
+                    <h4 style={{height:'17%',width:'150%',  marginLeft:'35%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> 6 heures </h4>
+                    <h4 style={{height:'17%',width:'150%',marginLeft:'35%', fontSize:'21px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%'}}> Total </h4>
+                    <h4 style={{height:'17%',width:'150%', marginLeft:'35%', fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>60 heures </h4>
                 </Col>
                 <Col xs={12} lg={2}>
 
@@ -86,11 +86,11 @@ class Portfolio extends React.Component {
 
                     <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}><a href="" target="_blank"> Ordinateurs </a></h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}><a href="" target="_blank">Photos</a></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>Photos</h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%',fontWeight:'lighter'}}><a href="" target="_blank"></a></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%',fontWeight:'lighter'}}></h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}><a href="" target="_blank"></a></h4>
+                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}></h4>
 
                 </Col>
                 
