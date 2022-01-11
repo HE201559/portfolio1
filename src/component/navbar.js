@@ -1,8 +1,5 @@
-import React, { Component, useState } from 'react';
-import { Navbar, Nav, NavDropdown, Container, Modal,Button } from 'react-bootstrap';
-import Acceuil from './acceuil';
-import Cv from './cv';
-import Portfolio from './portfolio';
+import React from 'react';
+import { Navbar, Nav, Container} from 'react-bootstrap';
 
 function NavBar(){
 

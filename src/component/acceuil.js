@@ -1,5 +1,4 @@
 import React from 'react';
-import curriculum from './images/cv.PNG'
 import image_acceuil from './images/IMG_acceuil.jpg'
 import { Container, Col, Row } from 'react-bootstrap'; 
 

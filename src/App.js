@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link,Switch, Redirect, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Route,Switch, Redirect } from 'react-router-dom';
 //import { Navbar, Nav, NavDropdown, Container } from 'react-bootstrap';
 import Acceuil from './component/acceuil';
 import Cv from './component/cv';
