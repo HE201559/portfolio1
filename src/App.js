@@ -19,10 +19,10 @@ class  App extends React.Component{
       <NavBar />
       <Router>
         <Switch>
-              <Route exact path='/' component={Acceuil}></Route>
+              <Route exact path='' component={Acceuil}></Route>
               <Route exact path='/Cv' component={Cv}></Route>
               <Route exact path='/Portfolio' component={Portfolio}></Route>
-              <Redirect to="/" />
+              <Redirect to="" />
             </Switch>
       </Router>
       </div>
