@@ -84,9 +84,9 @@ class Portfolio extends React.Component {
 
                     <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/6QxkVGv8/twitch.png" target="_blank" rel="noreferrer">Lien Twitch</a></h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}> Ordinateurs </h4>
+                    <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#E0AEA3', paddingTop:'12%',fontWeight:'lighter'}}><a href="https://i.postimg.cc/zG37b1w2/ordis.png" target="_blank" rel="noreferrer">Ordinateurs</a></h4>
 
-                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}>Photos</h4>
+                    <h4 style={{height:'17%',marginLeft:'35%', width:'165%',fontSize:'17px', textAlign:'center', paddingTop:'12%',fontWeight:'lighter'}}> <a href="https://i.postimg.cc/JnHSbkbg/foot.jpg" target="_blank" rel="noreferrer">Football</a> </h4>
 
                     <h4 style={{height:'17%',marginLeft:'35%',width:'165%',fontSize:'17px', textAlign:'center', backgroundColor:'#DA8471', paddingTop:'12%',fontWeight:'lighter'}}>  </h4>
 
@@ -119,7 +119,7 @@ class Portfolio extends React.Component {
                 </Row>
                 <Row style={{backgroundColor:'#E0AEA3'}}>
                     <h4 style={{ fontWeight:'lighter'}}> Streaming </h4>
-                    <p style={{ marginBottom:'3%',fontWeight:'lighter'}}> Une passion depuis quelques années, le streaming, Neshtai, mon pseudo, une image de moi se retrouvant dans les jeux vidéos. Partager ce plaisir avec d'autres personnes m'observant m'a permis d'améliorer ma communication</p>
+                    <p style={{ marginBottom:'3%',fontWeight:'lighter'}}> Une passion depuis quelques années, le streaming. Neshtai, mon pseudo, une image de moi se retrouvant dans les jeux vidéos. Partager ce plaisir avec d'autres personnes m'observant m'a permis d'améliorer ma communication tout en participant autant à mon plaisir qu'à celui d'autres personnes.</p>
                 </Row>
                 <Row>
                     <h4 style={{ fontWeight:'lighter'}}> Montage d'ordinateurs </h4>
